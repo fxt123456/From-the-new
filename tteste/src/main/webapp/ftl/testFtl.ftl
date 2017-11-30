@@ -1,0 +1,9 @@
+<html>
+<head>
+    <title>AAAA</title>
+</head>
+<body>
+	${user.userId}
+	${user.userName}
+</body>
+</html>
