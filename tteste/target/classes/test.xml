@@ -5,4 +5,9 @@
          <!-- 使用log4j来控制日志的输出 -->
         <setting name="logImpl" value="LOG4J"/>  
 </settings>  
+<!-- 全局配置 -->
+<settings>  
+         <!-- 使用log4j来控制日志的输出 -->
+        <setting name="logImpl" value="LOG4J"/>  
+</settings>  
 </configuration>
