@@ -5,5 +5,7 @@
 <body>
 	${user.userId}
 	${user.userName}
+	${user.userId}
+	${user.userName}
 </body>
 </html>
